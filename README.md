@@ -3,7 +3,7 @@
 
 **Model Identifier:** `Quin-Beta-21.ab1`  
 **Status:** `EXPERIMENTAL (v0.2.1)`  
-**Developed by:** Dr. Young & Seo Park Jun  
+**Developed by:** Dr. ChamYoung & Seo Park Jun  
 **Primary Purpose:** Architectural validation and optimization testing  
 **Parent Architecture:** Quin-91 (910B)
 
@@ -80,7 +80,7 @@ This structure enforces resonance-driven activation pathways, forming the theore
 
 | Category | Notes |
 |-----------|-------|
-| **Objective** | Internal testing of architectural optimization by Dr. Young and Seo Park Jun. |
+| **Objective** | Internal testing of architectural optimization by Dr. ChamYoung and Seo Park Jun. |
 | **Stability** | Unstable – not tuned for production. |
 | **Safety** | No instruction tuning or alignment applied. |
 | **Purpose** | Architectural transparency and academic evaluation only. |
@@ -158,7 +158,7 @@ curl -X GET "https://huggingface.co/api/datasets/DrChamyoung/Quinbeta5.2DataSets
 
 If referencing this artifact in academic or technical research:
 
-> Dr. Young, Seo Park Jun. *Quin Beta 21.ab1 (8B) — Experimental Architectural Model*. Inbora Studio Research Division, 2025.
+> Dr. ChamYoung, Seo Park Jun. *Quin Beta 21.ab1 (8B) — Experimental Architectural Model*. Inbora Studio Research Division, 2025.
 
 ---
 
