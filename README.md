@@ -3,7 +3,9 @@
 
 **Model Identifier:** `Quin-Beta-21.ab1`  
 **Status:** `EXPERIMENTAL (v0.2.1)`  
-**Developed by:** Dr. ChamYoung & Seo Park Jun  
+**Developed by:** [Dr. ChamYoung](https://github.com/InboraStudio)
+**Researche Paper Dynamics By :** [chethanyadav456](https://github.com/chethanyadav456)
+**Model Training by:** [Seo Park Jun](https://github.com/SeoParkjun)   
 **Primary Purpose:** Architectural validation and optimization testing  
 **Parent Architecture:** Quin-91 (910B)
 
